@@ -1,0 +1,21 @@
+@media all and (max-width: 1000px) {
+
+}
+
+@media all and (max-width: 670px){
+    .header-right {
+        display: none;
+    }
+
+    .menu-icon{
+        color: white;
+        padding-right: 20px;
+        padding-top: 25px;
+        
+    }
+
+    .calculator {
+        width: 300px;
+        
+    }
+}
